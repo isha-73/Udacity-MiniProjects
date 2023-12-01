@@ -5,7 +5,8 @@
 ### Includes : 
 
 Numpy
-
 Pandas
-
 Matplotlib
+Vectors
+Matrix
+Linear Combination
